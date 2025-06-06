@@ -1,0 +1,5 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0" name="MySQL" description="Connecting to the database" type="script"/>
+    <script src="Server.lua" type="server"/>
+    <export function="MySQL" type="server"/>
+</meta>

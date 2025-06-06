@@ -1,0 +1,6 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0.0" name="Account" description="Account Player Ha" type="script"/>
+    <script src="Server.lua" type="server" />
+    <script src="Client.lua" type="client" cache="false"/>
+    <file src="gta.jpg"/>
+</meta>
